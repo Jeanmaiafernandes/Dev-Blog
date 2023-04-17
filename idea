@@ -1,0 +1,20 @@
+
+Blog estructure
+Reference: Twitter, Rocketseat
+
+Register
+- name
+- username
+- email
+- password
+- date of birth
+- Human verification
+
+User profile
+- background
+- Avatar
+- Username
+- birthday
+- about me
+- technologies
+- following and followers
